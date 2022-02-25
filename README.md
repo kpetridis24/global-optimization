@@ -3,7 +3,8 @@ Unknown function approximation, given input-output measurements, using Genetic A
 
 Preliminary implementation of a [Genetic Algorithm](https://www.geeksforgeeks.org/genetic-algorithms/), utilized to approximate an unknown function, given 
 input-output measurements. Flexibility is provided to obtain different results and bias the approximation towards a desired direction, through selection of
-multiple parameters such as, the size of the population, the k more accurate ones to pick, the number of generations, and the tester-set of the input values.
+multiple parameters such as, the size of the population, the k more accurate chromosomes to pick, the number of generations, and the tester-set of the input 
+values.
 
 Version-1
 ```
