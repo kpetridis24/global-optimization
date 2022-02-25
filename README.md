@@ -7,13 +7,13 @@ multiple parameters such as, the size of the population, the k more accurate chr
 values.
 
 Version-1
-```
+
 1. Less values given as input
 2. Computational requirements are kept on a reasonable level
 3. Both the number of generations and the size of population can reach high values, without punishing effect on performance
 4. Less accurate approximation of the function most of the times
 5. Result is biased towards the area of the specific values, given as input
-```
+
 
 Version-2
 ```
