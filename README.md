@@ -16,10 +16,10 @@ Version-1
 
 
 Version-2
-```
+
 1. Whole grid given as input, containing every possible value inside the range
 2. Computational requirements increase drastically
 3. Convention must be made about the selection of parameters, as increase of all at the same time leads to very poor performance
 4. More accurate approximation most of the time
 5. Result is less biased towards the area of the input
-```
+
