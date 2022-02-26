@@ -6,7 +6,7 @@ input-output measurements. Flexibility is provided to obtain different results a
 multiple parameters such as, the size of the population, the k more accurate chromosomes to pick, the number of generations, and the tester-set of the input 
 values.
 
-Version-1
+**Version-1**
 
 1. Less values given as input
 2. Computational requirements are kept on a reasonable level
@@ -15,7 +15,7 @@ Version-1
 5. Result is biased towards the area of the specific values, given as input
 
 
-Version-2
+**Version-2**
 
 1. Whole grid given as input, containing every possible value inside the range
 2. Computational requirements increase drastically
