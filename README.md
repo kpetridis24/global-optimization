@@ -7,6 +7,7 @@ multiple parameters such as, the size of the population, the k more accurate chr
 values.
 
 **note**
+
 For optimal approximation, the threshold (desired MSE) must be kept low enough, anywhere in the range 0.0001-0.0005. This however, translates to excessive computational
 requirements, and a pretty poor performance.
 
