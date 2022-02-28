@@ -6,20 +6,7 @@ input-output measurements. Flexibility is provided to obtain different results a
 multiple parameters such as, the size of the population, the k more accurate chromosomes to pick, the number of generations, and the tester-set of the input 
 values.
 
-**Version-1**
-
-1. Less values given as input
-2. Computational requirements are kept on a reasonable level
-3. Both the number of generations and the size of population can reach high values, without punishing effect on performance
-4. Less accurate approximation of the function most of the times
-5. Result is biased towards the area of the specific values, given as input
-
-
-**Version-2**
-
-1. Whole grid given as input, containing every possible value inside the range
-2. Computational requirements increase drastically
-3. Convention must be made about the selection of parameters, as increase of all at the same time leads to very poor performance
-4. More accurate approximation most of the time
-5. Result is less biased towards the area of the input
+**note**
+For optimal approximation, the threshold (desired MSE) must be kept low enough, anywhere in the range 0.0001-0.0005. This however, translates to excessive computational
+requirements, and a pretty poor performance.
 
