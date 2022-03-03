@@ -8,6 +8,6 @@ values.
 
 **note**
 
-For optimal approximation, the threshold (desired MSE) must be kept low enough, anywhere in the range 0.0001-0.0005. This however, translates to excessive computational
+For optimal approximation, the threshold (desired MSE) must be kept low enough, anywhere in the range 10^-5 and lower. This however, translates to excessive computational
 requirements, and a pretty poor performance.
 
